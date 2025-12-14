@@ -10,7 +10,6 @@ Numpy All Essential Method Functions
 * `empty`
 * `arange`
 * `linspace`
-* `logspace`
 * `eye`
 * `identity`
 
