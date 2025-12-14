@@ -39,16 +39,6 @@ Numpy All Essential Method Functions
 
 ---
 
-## 🔹 Indexing & Selection
-
-* `take`
-* `put`
-* `where`
-* `nonzero`
-* `argwhere`
-
----
-
 ## 🔹 Mathematical / Universal Functions
 
 * `add`
@@ -72,9 +62,7 @@ Numpy All Essential Method Functions
 * `sin`
 * `cos`
 * `tan`
-* `arcsin`
-* `arccos`
-* `arctan`
+
 
 ---
 
@@ -89,31 +77,12 @@ Numpy All Essential Method Functions
 * `max`
 * `argmin`
 * `argmax`
-* `percentile`
-* `cumsum`
-* `cumprod`
-
 ---
 
 ## 🔹 Sorting & Searching
 
 * `sort`
-* `argsort`
-* `lexsort`
-* `searchsorted`
 
----
-
-## 🔹 Logical / Comparison
-
-* `any`
-* `all`
-* `logical_and`
-* `logical_or`
-* `logical_not`
-* `greater`
-* `less`
-* `equal`
 
 ---
 
@@ -122,24 +91,6 @@ Numpy All Essential Method Functions
 * `rand`
 * `randn`
 * `randint`
-* `choice`
-* `shuffle`
-* `permutation`
-* `seed`
-
----
-
-## 🔹 Linear Algebra (`np.linalg`)
-
-* `dot`
-* `matmul`
-* `inv`
-* `det`
-* `eig`
-* `svd`
-* `norm`
-
----
 
 ## 🔹 Stacking & Splitting
 
@@ -154,37 +105,6 @@ Numpy All Essential Method Functions
 
 ---
 
-## 🔹 Copying & Type
-
-* `copy`
-* `view`
-* `astype`
 
 ---
 
-## 🔹 File I/O
-
-* `save`
-* `load`
-* `savetxt`
-* `loadtxt`
-
----
-
-## 🔹 Utility
-
-* `unique`
-* `clip`
-* `repeat`
-* `tile`
-* `vectorize`
-
----
-
-If you want, I can now:
-
-* Highlight **top 20 most-used only**
-* Mark **interview-critical functions**
-* Provide **NumPy → Pandas mapping**
-
-Just say 👍
