@@ -1,5 +1,5 @@
 # Numpy-Revsion
-Numpy All Essential Method Functions
+Numpy All Essential Method & Functions
 
 ##🔹 Array Creation
 
